@@ -1,0 +1,38 @@
+{
+  "id": "renaissance_02",
+  "epoch": "renaissance",
+  "title": "Cat-a-Lisa",
+  "bpm": 120,
+  "duration_sec": 60,
+  "music": "res://assets/music/renaissance_02.ogg",
+  "background": "davinci_workshop",
+  "palette": ["#f3e5c1", "#8b5a2b", "#2c1810"],
+  "physics_zones": [
+    { "start_beat": 16, "end_beat": 24, "form": "long" },
+    { "start_beat": 40, "end_beat": 44, "form": "loaf" }
+  ],
+  "obstacles": [
+    { "beat": 4,   "type": "spike", "lane": "ground" },
+    { "beat": 6,   "type": "frame", "lane": "air"    },
+    { "beat": 8,   "type": "spike", "lane": "ground" },
+    { "beat": 12,  "type": "frame", "lane": "air"    },
+    { "beat": 28,  "type": "spike", "lane": "ground" },
+    { "beat": 32,  "type": "frame", "lane": "air"    },
+    { "beat": 36,  "type": "spike", "lane": "ground" },
+    { "beat": 56,  "type": "frame", "lane": "air"    },
+    { "beat": 64,  "type": "spike", "lane": "ground" },
+    { "beat": 72,  "type": "frame", "lane": "air"    },
+    { "beat": 80,  "type": "spike", "lane": "ground" },
+    { "beat": 96,  "type": "frame", "lane": "air"    },
+    { "beat": 104, "type": "spike", "lane": "ground" }
+  ],
+  "collectibles": [
+    { "beat": 20, "type": "fish_coin" },
+    { "beat": 48, "type": "yarn_ball" },
+    { "beat": 88, "type": "fish_coin" }
+  ],
+  "boss": {
+    "name": "Biblically Accurate Da Vinci Cat",
+    "question_id": "ren_q1"
+  }
+}

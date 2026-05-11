@@ -1,0 +1,54 @@
+[
+  {
+    "id": "meowgypt_q1",
+    "epoch": "meowgypt",
+    "prompt": "Which ancient civilization is famous for worshipping cats as sacred animals?",
+    "options": ["Vikings", "Egyptians", "Aztecs"],
+    "correct_index": 1,
+    "explanation": "Egyptians honored the cat-headed goddess Bastet, protector of the home."
+  },
+  {
+    "id": "neko_q1",
+    "epoch": "neko",
+    "prompt": "What does a maneki-neko (the Japanese waving cat) symbolize?",
+    "options": ["War", "Good luck and prosperity", "Rain"],
+    "correct_index": 1,
+    "explanation": "It is believed to invite good fortune to homes and businesses."
+  },
+  {
+    "id": "castle_q1",
+    "epoch": "castle",
+    "prompt": "Why did medieval ships carry cats?",
+    "options": ["To predict weather", "To hunt rats that ate the food", "For decoration"],
+    "correct_index": 1,
+    "explanation": "Ship cats protected grain stores and sailors' meals from rodents."
+  },
+  {
+    "id": "ren_q1",
+    "epoch": "renaissance",
+    "prompt": "Which Renaissance artist filled his notebooks with sketches of cats?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Caravaggio"],
+    "correct_index": 1,
+    "explanation": "Da Vinci called the cat 'nature's masterpiece'."
+  },
+  {
+    "id": "cosmos_q1",
+    "epoch": "cosmos",
+    "prompt": "Which country sent the first cat into space in 1963?",
+    "options": ["USA", "Soviet Union", "France"],
+    "correct_index": 2,
+    "explanation": "Félicette flew on a French Véronique rocket and returned safely."
+  },
+  {
+    "id": "cyber_q1",
+    "epoch": "cyber",
+    "prompt": "An AND gate outputs TRUE when…",
+    "options": [
+      "either input is TRUE",
+      "both inputs are TRUE",
+      "the input is FALSE"
+    ],
+    "correct_index": 1,
+    "explanation": "AND requires every input to be true at the same time."
+  }
+]

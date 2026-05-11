@@ -1,0 +1,27 @@
+# Godot 4
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+*.translation
+
+# Builds / exports
+/build/
+/exports/
+*.exe
+*.pck
+*.zip
+*.apk
+*.aab
+*.dmg
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log

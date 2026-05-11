@@ -1,0 +1,58 @@
+[
+  {
+    "id": "default_loaf",
+    "name": "Bread Loaf Cat",
+    "epoch": null,
+    "unlock": "starter",
+    "sprite": "res://assets/skins/default_loaf.png"
+  },
+  {
+    "id": "bastet",
+    "name": "Bastet",
+    "epoch": "meowgypt",
+    "unlock": "boss_correct:meowgypt_q1",
+    "sprite": "res://assets/skins/bastet.png"
+  },
+  {
+    "id": "maneki",
+    "name": "Maneki-neko",
+    "epoch": "neko",
+    "unlock": "boss_correct:neko_q1",
+    "sprite": "res://assets/skins/maneki.png"
+  },
+  {
+    "id": "ship_cat",
+    "name": "Ship Cat",
+    "epoch": "castle",
+    "unlock": "boss_correct:castle_q1",
+    "sprite": "res://assets/skins/ship_cat.png"
+  },
+  {
+    "id": "davinci_cat",
+    "name": "Da Vinci's Cat",
+    "epoch": "renaissance",
+    "unlock": "boss_correct:ren_q1",
+    "sprite": "res://assets/skins/davinci_cat.png"
+  },
+  {
+    "id": "felicette",
+    "name": "Félicette",
+    "epoch": "cosmos",
+    "unlock": "boss_correct:cosmos_q1",
+    "sprite": "res://assets/skins/felicette.png"
+  },
+  {
+    "id": "cyber_cat",
+    "name": "Cyber-Nyan",
+    "epoch": "cyber",
+    "unlock": "boss_correct:cyber_q1",
+    "sprite": "res://assets/skins/cyber_cat.png"
+  },
+  {
+    "id": "biblically_accurate",
+    "name": "Biblically Accurate Cat",
+    "epoch": null,
+    "unlock": "all_epochs_cleared",
+    "sprite": "res://assets/skins/biblically_accurate.png"
+  }
+]
