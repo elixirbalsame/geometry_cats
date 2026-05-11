@@ -1,0 +1,44 @@
+[
+  {
+    "id": "meowgypt",
+    "title": "Ancient Meow-gypt",
+    "order": 1,
+    "blurb": "Egyptians deified cats — meet Bastet, the goddess of home and protection.",
+    "palette": ["#f4d35e", "#ee964b", "#3a2618"]
+  },
+  {
+    "id": "neko",
+    "title": "Neko Shogunate",
+    "order": 2,
+    "blurb": "Maneki-neko waves you in — Japan's lucky cat.",
+    "palette": ["#f7e8d6", "#d62828", "#1d1d1d"]
+  },
+  {
+    "id": "castle",
+    "title": "Medieval Cat-Castle",
+    "order": 3,
+    "blurb": "Cats kept ships and granaries free of rodents — they saved civilizations.",
+    "palette": ["#a4c3b2", "#6b9080", "#2a2d34"]
+  },
+  {
+    "id": "renaissance",
+    "title": "Renaissance (Cat-a-Lisa)",
+    "order": 4,
+    "blurb": "From Da Vinci to Bosch — cats wander through Renaissance composition.",
+    "palette": ["#f3e5c1", "#8b5a2b", "#2c1810"]
+  },
+  {
+    "id": "cosmos",
+    "title": "Cat-Cosmos",
+    "order": 5,
+    "blurb": "Félicette, the first cat in space (France, 1963), watches the stars.",
+    "palette": ["#0b132b", "#5bc0be", "#e0fbfc"]
+  },
+  {
+    "id": "cyber",
+    "title": "Cyber-Nyan-k",
+    "order": 6,
+    "blurb": "Future cats compute with logic gates — AND, OR, NOT.",
+    "palette": ["#240046", "#7209b7", "#80ffdb"]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "meowgypt_01",
+  "epoch": "meowgypt",
+  "title": "Bastet's Awakening",
+  "bpm": 110,
+  "duration_sec": 45,
+  "music": "res://assets/music/meowgypt_01.ogg",
+  "background": "pyramid_dawn",
+  "palette": ["#f4d35e", "#ee964b", "#3a2618"],
+  "physics_zones": [
+    { "start_beat": 24, "end_beat": 32, "form": "long" }
+  ],
+  "obstacles": [
+    { "beat": 4,  "type": "sarcophagus", "lane": "ground" },
+    { "beat": 8,  "type": "sarcophagus", "lane": "ground" },
+    { "beat": 12, "type": "ra_beam",     "lane": "air"    },
+    { "beat": 16, "type": "spike",       "lane": "ground" },
+    { "beat": 20, "type": "spike",       "lane": "ground" },
+    { "beat": 36, "type": "ra_beam",     "lane": "air"    },
+    { "beat": 40, "type": "sarcophagus", "lane": "ground" },
+    { "beat": 48, "type": "spike",       "lane": "ground" },
+    { "beat": 56, "type": "ra_beam",     "lane": "air"    },
+    { "beat": 64, "type": "sarcophagus", "lane": "ground" },
+    { "beat": 72, "type": "spike",       "lane": "ground" }
+  ],
+  "collectibles": [
+    { "beat": 14, "type": "fish_coin" },
+    { "beat": 28, "type": "fish_coin" },
+    { "beat": 52, "type": "fish_coin" }
+  ]
+}
